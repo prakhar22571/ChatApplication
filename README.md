@@ -1,1 +1,1 @@
-Application hosted at : https://chatterbox-s1bc.onrender.com/
+Application deployed at : https://chatterbox-s1bc.onrender.com/
